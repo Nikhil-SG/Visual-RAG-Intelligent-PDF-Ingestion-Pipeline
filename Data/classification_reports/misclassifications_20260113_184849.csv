@@ -1,0 +1,10 @@
+True Label,Predicted As,Count,Example 1,Example 2,Example 3,All Files
+Humans,Building,58,Humans_100.jpg,Humans_101.jpg,Humans_103.jpg,"Humans_100.jpg, Humans_101.jpg, Humans_103.jpg, Humans_107.jpg, Humans_109.jpg, Humans_111.jpg, Humans_116.jpg, Humans_118.jpg, Humans_120.jpg, Humans_128.jpg, Humans_129.jpg, Humans_130.jpg, Humans_131.jpg, Humans_133.jpg, Humans_143.jpg, Humans_145.jpg, Humans_149.jpg, Humans_160.jpg, Humans_171.jpg, Humans_172.jpg, Humans_174.jpg, Humans_19.jpg, Humans_192.jpg, Humans_196.jpg, Humans_213.jpg, Humans_22.jpg, Humans_227.jpg, Humans_228.jpg, Humans_229.jpg, Humans_23.jpg, Humans_237.jpg, Humans_240.jpg, Humans_248.jpg, Humans_253.jpg, Humans_255.jpg, Humans_258.jpg, Humans_28.jpg, Humans_29.jpg, Humans_33.jpg, Humans_39.jpg, Humans_40.jpg, Humans_43.jpg, Humans_49.jpg, Humans_51.jpg, Humans_52.jpg, Humans_53.jpg, Humans_55.jpg, Humans_56.jpg, Humans_59.jpg, Humans_65.jpg, Humans_75.jpg, Humans_77.jpg, Humans_81.jpg, Humans_83.jpg, Humans_86.jpg, Humans_90.jpg, Humans_95.jpg, Humans_98.jpg"
+Building,Humans,9,Building_11.jpg,Building_17.jpg,Building_18.jpg,"Building_11.jpg, Building_17.jpg, Building_18.jpg, Building_19.jpg, Building_20.jpg, Building_24.jpg, Building_25.jpg, Building_4.jpg, Building_9.jpg"
+Logo's,Content,6,Logo's_31.png,Logo's_5.png,Logo's_6.png,"Logo's_31.png, Logo's_5.png, Logo's_6.png, Logo's_7.png, Logo's_8.png, Logo's_9.png"
+Humans,Logo's,5,Humans_113.jpg,Humans_134.jpg,Humans_14.jpg,"Humans_113.jpg, Humans_134.jpg, Humans_14.jpg, Humans_177.jpg, Humans_236.jpg"
+Humans,Icon,3,Humans_175.jpg,Humans_179.jpg,Humans_251.jpg,"Humans_175.jpg, Humans_179.jpg, Humans_251.jpg"
+Logo's,Humans,2,Logo's_41.png,Logo's_45.png,,"Logo's_41.png, Logo's_45.png"
+Content,Humans,1,Content_13.jpg,,,Content_13.jpg
+monochrome,Humans,1,monochrome_3.png,,,monochrome_3.png
+Logo's,Icon,1,Logo's_49.jpg,,,Logo's_49.jpg

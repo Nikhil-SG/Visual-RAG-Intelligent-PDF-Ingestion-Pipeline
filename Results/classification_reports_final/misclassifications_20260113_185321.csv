@@ -1,0 +1,8 @@
+True Label,Predicted As,Count,Example 1,Example 2,Example 3,All Files
+Humans,Building,13,Humans_101.jpg,Humans_109.jpg,Humans_129.jpg,"Humans_101.jpg, Humans_109.jpg, Humans_129.jpg, Humans_171.jpg, Humans_192.jpg, Humans_196.jpg, Humans_237.jpg, Humans_29.jpg, Humans_52.jpg, Humans_55.jpg, Humans_65.jpg, Humans_77.jpg, Humans_90.jpg"
+Building,Humans,5,Building_11.jpg,Building_24.jpg,Building_25.jpg,"Building_11.jpg, Building_24.jpg, Building_25.jpg, Building_4.jpg, Building_9.jpg"
+Humans,Logo's,3,Humans_113.jpg,Humans_134.jpg,Humans_14.jpg,"Humans_113.jpg, Humans_134.jpg, Humans_14.jpg"
+Humans,Icon,2,Humans_175.jpg,Humans_179.jpg,,"Humans_175.jpg, Humans_179.jpg"
+Logo's,Humans,2,Logo's_41.png,Logo's_49.jpg,,"Logo's_41.png, Logo's_49.jpg"
+Content,Humans,1,Content_13.jpg,,,Content_13.jpg
+monochrome,Humans,1,monochrome_3.png,,,monochrome_3.png

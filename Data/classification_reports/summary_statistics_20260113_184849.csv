@@ -1,0 +1,14 @@
+Metric,Value
+Total Categories,7.0
+Total Images,460.0
+Correctly Classified,374.0
+Misclassified,86.0
+Overall Accuracy,0.813
+Macro Precision,0.8442
+Macro Recall,0.8663
+Macro F1 Score,0.8367
+Macro Accuracy,0.8663
+Weighted Precision,0.8826
+Weighted Recall,0.813
+Weighted F1 Score,0.8342
+Weighted Accuracy,0.813
